@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 filename=nodejs.tar.xz
 if [ ! -f "$filename" ]
 then
